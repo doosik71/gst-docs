@@ -28,3 +28,5 @@ xcuserdata
 /hotdoc_env/
 *.html
 *~
+*.o
+/build/**
